@@ -2,6 +2,7 @@
   "name": "@sculptr/twitch",
   "version": "1.7.1",
   "displayName": "Twitch",
+  "icon": "https://cdn.jsdelivr.net/npm/@sculptr/twitch/icon.svg",
   "description": "Let your viewers join your game!",
   "keywords": [
     "fangame",
@@ -38,7 +39,8 @@
     "@sculptr/text": "^1.3.0"
   },
   "files": [
-    "dist"
+    "dist",
+    "icon.svg"
   ],
   "publishConfig": {
     "access": "public"
